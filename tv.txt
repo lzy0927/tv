@@ -241,7 +241,7 @@ NewTV金牌综艺 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/32212
 5GO美妆个护 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226387/1.m3u8#http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226389/1.m3u8
 5GO服饰内衣 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226388/1.m3u8
 咪咕4K 31M2160HDR,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226399/1.m3u8
-咪咕视频,#genre# 
+IPTV,#genre# 
 北京IPTV淘BABY 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226554/1.m3u8
 北京IPTV淘娱乐 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226551/1.m3u8
 北京IPTV萌宠TV 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226555/1.m3u8
