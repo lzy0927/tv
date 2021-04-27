@@ -1,7 +1,7 @@
 新闻频道,#genre#
 凤凰资讯,http://39.135.53.195/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 凤凰资讯,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=190&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
-凤凰资讯,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+
 凤凰中文台,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
 凤凰中文台,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 凤凰中文台,http://117.169.120.138:8080/live/fhchinese/index.m3u8
@@ -11,9 +11,7 @@ CNC·中文频道,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 央视频道,#genre#
 CCTV1 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
 CCTV2 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
-CCTV3综艺,http://ivi.bupt.edu.cn/hls/cctv3.m3u8
-CCTV3综艺,http://cctvalih5ca.v.myalicdn.com/live/cctv3_2/index.m3u8
-CCTV3综艺,http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
+CCTV3,http://183.207.255.190/live/program/live/cctv3hd/4000000/mnf.m3u8
 CCTV4 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226335/1.m3u8
 CCTV4 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226470/1.m3u8
 CCTV5 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226469/1.m3u8
