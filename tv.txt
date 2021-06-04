@@ -6,9 +6,9 @@
 凤凰中文台,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 凤凰中文台,http://117.169.120.138:8080/live/fhchinese/index.m3u8
 CCTV-13新闻频道,http://39.134.135.13:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u85
-CCTV-13新闻频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/index.m3u8
-CCTV-13新闻频道,http://39.135.33.12/PLTV/77777777/224/3221226580/index.m3u8
-CCTV-13新闻频道,http://39.135.33.12/PLTV/77777777/224/3221226819/index.m3u8CNC·中文频道,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+CCTV-13新闻频道,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
+CCTV-13新闻频道,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/01.m3u8?fmt=ts2hls
+
 央视频道,#genre#
 CCTV1 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226346/1.m3u8
 CCTV2 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226371/1.m3u8
