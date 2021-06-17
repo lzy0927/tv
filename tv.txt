@@ -5,6 +5,10 @@
 凤凰中文台,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225942/1.m3u8
 凤凰中文台,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 凤凰中文台,http://117.169.120.138:8080/live/fhchinese/index.m3u8
+
+
+CCTV-13新闻频道,http://tyzb999.chxjon.cn:80/iptv/公众号=太阳资讯/tyzb01.php?id=yueyuHD_7000
+
 CCTV-13新闻频道,https://cctvalih5ca.v.myalicdn.com/live/cctv13_2/index.m3u8
 CCTV-13新闻频道,http://39.134.135.13:80/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226316/1.m3u8
 CCTV-13新闻频道,http://39.134.176.166/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230877/01.m3u8?fmt=ts2hls
