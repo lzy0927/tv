@@ -6,7 +6,11 @@
 凤凰中文台,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
 凤凰中文台,http://117.169.120.138:8080/live/fhchinese/index.m3u8
 
+凤凰卫视,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8
 
+新闻,http://223.110.241.137:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/?type=.m3u8
+
+Cctv2,http://223.110.241.137:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/?type=.m3u8
 CCTV13HD,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225817/index.m3u8
 CCTV13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8
 
